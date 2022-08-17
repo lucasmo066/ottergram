@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Ottergram
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository is for a practice app I built using React.js. Used many different hooks and got to practice with functional programming paradigm.
 
 ## Available Scripts
 
